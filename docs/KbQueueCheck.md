@@ -34,7 +34,7 @@
  ptb\_kbcheck\_disabledKeys (see "help [DisableKeysForKbCheck](DisableKeysForKbCheck)"), will  
  not caused pressed to return as true and will be zeroed out in the  
  returned arrays. However, a better alternative is to specify a  
- keyList arguement to [KbQueueCreate](KbQueueCreate).   
+ keyList argument to [KbQueueCreate](KbQueueCreate).   
   
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
   
